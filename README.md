@@ -1,6 +1,7 @@
 # Team-Project
 HSE TEAM PROJECT CV
 
+Since GitHub has a 25MB file size limit, I'm providing the training data and other relevant files on Google Drive: [https://drive.google.com/drive/folders/1A0ieTFwd0OhFafQw72r-akKVJVnWOxfo?usp=sharing](https://drive.google.com/drive/folders/1A0ieTFwd0OhFafQw72r-akKVJVnWOxfo?usp=sharing).
 
 ### Project Overview
 
